@@ -69,17 +69,17 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Prateek Soni,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Data
+secondTitle: Analyst
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
 secondTitle: explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: I am a Data enthusiast exploring the Data World and Diving into the deep ocen of Big data.
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
